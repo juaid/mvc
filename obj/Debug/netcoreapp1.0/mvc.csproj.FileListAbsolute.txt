@@ -1,0 +1,8 @@
+/Users/null/Desktop/SamepleDotNetCore/mvc/bin/Debug/netcoreapp1.0/mvc.deps.json
+/Users/null/Desktop/SamepleDotNetCore/mvc/bin/Debug/netcoreapp1.0/mvc.runtimeconfig.json
+/Users/null/Desktop/SamepleDotNetCore/mvc/bin/Debug/netcoreapp1.0/mvc.runtimeconfig.dev.json
+/Users/null/Desktop/SamepleDotNetCore/mvc/bin/Debug/netcoreapp1.0/mvc.dll
+/Users/null/Desktop/SamepleDotNetCore/mvc/bin/Debug/netcoreapp1.0/mvc.pdb
+/Users/null/Desktop/SamepleDotNetCore/mvc/obj/Debug/netcoreapp1.0/mvc.AssemblyInfo.cs
+/Users/null/Desktop/SamepleDotNetCore/mvc/obj/Debug/netcoreapp1.0/mvc.dll
+/Users/null/Desktop/SamepleDotNetCore/mvc/obj/Debug/netcoreapp1.0/mvc.pdb
